@@ -55,7 +55,7 @@
 ## 💻 Projects 💻
 
 - 2021
-  * 게임 홍보용 웹사이트
+  * <a href="https://github.com/VIRTUALLEAGUE/VIRTUALLEAGUE.github.io/blob/main/README.md">게임 홍보용 웹사이트</a>
   * 메타버스 온라인 스포츠 게임
 - 2020
   * DGA 기반 악성 도메인 탐지 시스템
