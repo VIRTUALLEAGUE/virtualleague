@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=ED4B1C&height=300&section=header&text=Guhyun%27s%20gitgub&fontSize=60)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
