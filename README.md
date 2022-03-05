@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ED4B1C&height=300&section=header&text=Guhyun%27s%20gitgub&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=ED4B1C&height=300&section=header&text=Guhyun%27s%20gitgub&fontSize=60)
 
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
