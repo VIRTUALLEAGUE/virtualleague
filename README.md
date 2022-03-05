@@ -65,4 +65,4 @@
   * 메모리 해킹 실습 목적, 고의적 메모리 무방비 노출 게임
   * 국가 전력 소비량 절감 솔루션
   * 동아리 주최 CTF 문제 출제
-  * 대학 강의 판서 인식 및 자동 문서화 애플리케이션
+  * <a href="https://github.com/VIRTUALLEAGUE/EZ-Scanner_OCR_Application/blob/main/README.md">대학 강의 판서 인식 및 자동 문서화 애플리케이션</a>
