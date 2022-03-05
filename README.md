@@ -25,26 +25,27 @@
  <img src="https://img.shields.io/badge/After Effect-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
  </p>
  
- ##
- ## 🕵 Who am I? 🕵<br>
- asdasd
+
+ ## 🕵 Who am I? 🕵
+ I graduated from Suwon University's Department of Information Security.<br>
+ Recently, I turned from Game Producer to Developer And i have been studying.
  
  
-## 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+## 🕴 Work Experience 🕴
+2020 - 2021 / 텅빈스튜디오 / 창업자 & CEO
+- [도전 K-스타트업 2021] 예하리그 [학생창업유망팀 300] 최종선발
+- 부총리 겸 교육부 장관 인증서 수여
+- 교육부, 과학기술정보통신부 공동주최 [전국민대상 모의투자대회], 626,000,000원 유치 성공
+- AI R&D, 기획, Motion Capture, 3D, Cinematic, 투자유치, 사업 등 업무 수행
+- 버추얼 프로덕션 개발 프로젝트 총괄
+- 메타버스 게임 개발 프로젝트 총괄
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+## 🎖 Award 🎖
 
-## Features
-
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- 2020 한이음 ICT 공모전
+  * 입선상 한국정보산업연합회 회장상
+- 2019 제 5회 국회도서관 해커톤 : 개방형클라우드 플랫폼 Paas Ta 기반 서비스 개발 공모전
+  * 금상 과학기술정보통신부 장관상
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
