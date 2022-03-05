@@ -4,7 +4,7 @@
  </p>
 <p align="center">
  <!--<img src="https://img.shields.io/badge/solved.ac-G4-gold"/>-->
-  <a href="https://www.acmicpc.net/user/usw20"><img src="https://img.shields.io/badge/solved.ac-G4-gold"></a>
+  <a href="https://www.acmicpc.net/user/usw20" target="_blank"><img src="https://img.shields.io/badge/solved.ac-G4-gold"></a>
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
