@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ED4B1C&height=200&section=center&text=Guhyun%27s%20Gitgub&fontSize=60">
  </p>
 <p align="center">
- <img src="https://img.shields.io/badge/solved.ac-G4-gold"(www.naver.com)/>
+ <!--<img src="https://img.shields.io/badge/solved.ac-G4-gold"/>-->
+  <a href="www.naver.com"><img src="https://img.shields.io/badge/solved.ac-G4-gold"></a>
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
