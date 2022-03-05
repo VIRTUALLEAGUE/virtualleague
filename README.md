@@ -1,14 +1,28 @@
 <!--![header](https://capsule-render.vercel.app/api?type=cylinder&color=ED4B1C&height=300&section=header&text=Guhyun%27s%20gitgub&fontSize=60)-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ED4B1C&height=300&section=center&text=Guhyun%27s%20gitgub&fontSize=60">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ED4B1C&height=200&section=center&text=Guhyun%27s%20Gitgub&fontSize=60">
  </p>
+<p align="center">
+ <img src="https://img.shields.io/badge/solved.ac-G4-gold"(www.naver.com)/>
+</p>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
  </p>
-
+ <p align="center">
+ <img src="https://img.shields.io/badge/Pycharm-07C85F?style=flat-square&logo=Pycharm&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+ </p>
+<p align="center">
+ <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal engine&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=SketchUp&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/After Effect-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+ </p>
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
 
