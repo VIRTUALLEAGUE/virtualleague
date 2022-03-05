@@ -27,8 +27,8 @@
  
 
  ## 🕵 Who am I? 🕵
- I graduated from Suwon University's Department of Information Security.<br>
- Recently, I turned from Game Producer to Developer And i have been studying.
+ 수원대학교 정보보호학과를 졸업하였습니다.<br>
+ 2022년, 게임 프로듀서에서 개발자로 전향하여 개발을 공부하고 있습니다.
  
  
 ## 🕴 Work Experience 🕴
