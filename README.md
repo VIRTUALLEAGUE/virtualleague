@@ -62,7 +62,7 @@
   * 버추얼 프로덕션 제작 프로젝트
   * 사회적 약자를 위한 스마트 CCTV
 - 2019
-  * 메모리 해킹 실습 목적, 고의적 메모리 무방비 노출 게임
+  * <a href="https://github.com/VIRTUALLEAGUE/As_I_Want/blob/main/README.md">메모리 해킹 실습 목적, 고의적 메모리 무방비 노출 게임</a>
   * 국가 전력 소비량 절감 솔루션
   * 동아리 주최 CTF 문제 출제
   * <a href="https://github.com/VIRTUALLEAGUE/EZ-Scanner_OCR_Application/blob/main/README.md">대학 강의 판서 인식 및 자동 문서화 애플리케이션</a>
