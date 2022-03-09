@@ -53,7 +53,7 @@
   * 장려상 수원대학교 총장상
 
 
-## 💻 Projects 💻
+## 💻 Projects 💻 (지속적 업데이트 중)
 
 - 2021
   * <a href="https://github.com/VIRTUALLEAGUE/VIRTUALLEAGUE.github.io/blob/main/README.md">게임 홍보용 웹사이트</a>
