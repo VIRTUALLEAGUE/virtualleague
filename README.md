@@ -53,7 +53,8 @@
 
 
 ## 💻 Projects 💻 (지속적 업데이트 중)
-
+- 2022
+  * <a href="https://github.com/VIRTUALLEAGUE/Build_Game_Design/blob/main/README.md">메타버스 온라인 시뮬레이션 게임</a>
 - 2021
   * <a href="https://github.com/VIRTUALLEAGUE/VIRTUALLEAGUE.github.io/blob/main/README.md">게임 홍보용 웹사이트</a>
   * 메타버스 온라인 스포츠 게임
