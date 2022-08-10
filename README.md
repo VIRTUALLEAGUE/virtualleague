@@ -29,9 +29,11 @@
 
  ## 🕵 Who am I? 🕵
  꿈이 많은 청년
- 
+  
  
 ## 🕴 Work Experience 🕴
+2022 - ing / KRAFTON / Metaverse Content Designer
+
 2020 - 2021 / 텅빈스튜디오 / 창업자 & CEO
 - [도전 K-스타트업 2021] 예하리그 [학생창업유망팀 300] 최종선발
 - 부총리 겸 교육부 장관 인증서 수여
