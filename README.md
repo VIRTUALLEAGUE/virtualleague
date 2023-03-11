@@ -56,7 +56,7 @@
   * 장려상 수원대학교 총장상
 
 
-## 💻 Projects 💻 (지속적 업데이트 중)
+## 💻 Projects 💻 
 - 2022
   * <a href="https://github.com/VIRTUALLEAGUE/Build_Game_Design/blob/main/README.md">메타버스 온라인 시뮬레이션 게임</a>
 - 2021
@@ -71,3 +71,7 @@
   * 국가 전력 소비량 절감 솔루션
   * 동아리 주최 CTF 문제 출제
   * <a href="https://github.com/VIRTUALLEAGUE/EZ-Scanner_OCR_Application/blob/main/README.md">대학 강의 판서 인식 및 자동 문서화 애플리케이션</a>
+
+## 📌 Etc 📌
+- 2022
+  * 2022 KRAFTON DEVELOPER CONFERENCE Speaker
