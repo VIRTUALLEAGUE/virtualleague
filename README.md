@@ -28,7 +28,7 @@
  
 
  ## 🕵 Who am I? 🕵
- 꿈이 많은 청년
+ AI 3D Metaverse DigitalHuman DigitalTwin 등 미래기술에 관심 많은 🙍‍♂️
   
  
 ## 🕴 Work Experience 🕴
