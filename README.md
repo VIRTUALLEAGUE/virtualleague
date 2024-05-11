@@ -32,7 +32,8 @@
   
  
 ## 🕴 Work Experience 🕴
-2022 - ing / KRAFTON / Metaverse Content Designer
+2023 - 2024 / OVERDARE KOREA / Content Designer
+2022 - 2023 / KRAFTON / Content Designer
 
 2020 - 2021 / 텅빈스튜디오 / 창업자 & CEO
 - [도전 K-스타트업 2021] 예하리그 [학생창업유망팀 300] 최종선발
