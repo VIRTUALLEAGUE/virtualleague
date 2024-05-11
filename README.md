@@ -33,6 +33,7 @@
  
 ## 🕴 Work Experience 🕴
 2023 - 2024 / OVERDARE KOREA / Content Designer
+
 2022 - 2023 / KRAFTON / Content Designer
 
 2020 - 2021 / 텅빈스튜디오 / 창업자 & CEO
